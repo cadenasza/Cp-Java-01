@@ -33,6 +33,7 @@ A entrega de um Relatório explicando o funcionamento do programa desenvolvido, 
 # Desenvolva o seguinte projeto:
  
 1. Desenvolver um programa em Java que possua as seguintes classes e anotações:
+   
 ## Uma classe para representar um funcionário contendo:
  
 - O nome, as horas trabalhadas e o valor pago por horas trabalhadas;
@@ -63,7 +64,8 @@ conexão com o BD.
  
 Portanto, além da conexão com o BD Oracle SQL Developer, o programa deve fornecer o retorno do “código SQL” que está sendo realizado em cada etapa do CRUD (Create, Read, Update e Delete), além do retorno do “mostrar as informações do funcionário”. Abaixo, segue
 um exemplo de tabela relacionada com a parte de retorno do “código SQL” para representar oque está ocorrendo em cada etapa junto ao BD:
-Data de entrega final do trabalho: até 30/03/2025 (domingo) às 23:59. 
+
+• Data de entrega final do trabalho: até 30/03/2025 (domingo) às 23:59. 
  
 • Entregas atrasadas em até 2 dias terão desconto de 50% na nota final. Após este período (em mais 2 dias), as entregas serão consideradas como 25% da nota. Após esse prazo, a nota zero será atribuída à atividade. 
  
