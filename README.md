@@ -73,4 +73,3 @@ um exemplo de tabela relacionada com a parte de retorno do “código SQL” par
 • Qualquer outro tipo de entrega que não a solicitada neste documento, será desconsiderada. 
  
 • Caso seja identificado qualquer tipo de vírus no(s) arquivo(s) entregues, será atribuída nota zero à atividade.
- 
